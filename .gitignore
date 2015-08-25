@@ -1,0 +1,5 @@
+fishnet
+*.o
+fishnet.geany
+Makefile
+moc_*.cpp
